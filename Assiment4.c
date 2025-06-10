@@ -44,7 +44,7 @@ int A4()
     return 0;
 }
 //5. write a program to swap a value without using third variabe
-int A5()
+int main()
 {
     int a,b;
     printf("Enter two number");
@@ -93,7 +93,7 @@ int A7()
     return 0;
 }
 //8. Write a program to swap of two int variabes in single line arithmetic experation
-int main()
+int A8()
 {
     int a,b;
     printf("Enter two number");
